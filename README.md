@@ -86,8 +86,6 @@ It is a **simple, low-cost, and efficient solution** for monitoring environmenta
 - [DHT11 Sensor Guide](https://ielectrony.com/)  
 - [YouTube Tutorial](https://www.youtube.com/watch?v=pifnooZ4Znw)
 
-- ## 📑 Project Report  
+## 📑 Project Report  
 
-You can download and read the full report here:  
-
-👉 [📥 Download Report (PDF)](report.pdf)
+👉 [📥 Download Report (PDF)](Project_Report.pdf)
